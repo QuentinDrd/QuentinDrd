@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently working at Print&Design
+- 🌱 I’m currently learning at O'Clock
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/quentin-durand-2148a0235/)
 
 <!--
 **QuentinDrd/QuentinDrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
