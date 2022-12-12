@@ -1,19 +1,22 @@
-### Hi there 👋
-- 🔭 I’m currently working at Print&Design
-- 🌱 I’m currently learning at O'Clock
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/quentin-durand-2148a0235/)
+<h2> Hi, I'm Quentin !</h2>
+<img align='right' src="https://cdn.discordapp.com/attachments/780066965854224395/1051872501493416027/Image_PNG.png" width="230">
+<p>
+  <em>
+    I am currently studying at <a href="https://oclock.io/">O'Clock</a>
+    </br>
+    Apprentice developer at <a href="">Print&Design</a>
+  </em>
+</p>
 
-<!--
-**QuentinDrd/QuentinDrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### A little more about me...  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const quentin = {
+  pronouns: "he",
+  code: [Javascript, HTML, CSS, SQL, Python, PHP],
+  tools: [Node, Docker, SASS],
+}
+```
+
+---
